@@ -14,4 +14,4 @@ This application is a great example of what a potiential backend application may
 
 ## Video Submission
 
-<iframe src="https://drive.google.com/file/d/1kiw3JN_wJde9xnqsC-tUW4WST0RyCRNr/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1kiw3JN_wJde9xnqsC-tUW4WST0RyCRNr/preview
