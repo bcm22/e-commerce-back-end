@@ -14,4 +14,5 @@ This application is a great example of what a potiential backend application may
 
 ## Video Submission
 
-https://drive.google.com/file/d/1kiw3JN_wJde9xnqsC-tUW4WST0RyCRNr/preview
+[Ecommerce.webm](https://github.com/bcm22/e-commerce-back-end/assets/135455152/59e85907-ae9c-4d40-8d9f-7b832b177957)
+
